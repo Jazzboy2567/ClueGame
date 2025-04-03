@@ -1,0 +1,27 @@
+// Rooms and room cards
+Room, Office, O
+Room, Game Area, G
+Room, Electronics Room, E
+Room, Breaker, B
+Room, Living Room, L
+Room, Kitchen, K
+Room, Master Bedroom, M
+Room, Pantry, P
+Room, Family Room, F
+// other spaces on board
+Space, Unused, X
+Space, Walkway, W
+// Names, color of player, if the player is Computer or Human, and their x and y coordinates.
+#Colonel Mustard, Human, 0, 0, #ffff00
+#Miss Scarlet, Computer, 0, 0, #ff0000
+#Professor Plum, Computer, 0, 0, #800080
+#Mr. Green, Computer, 0, 0, #008000
+#Mrs. White, Computer, 0, 0, #ffffff
+#Mrs. Peacock, Computer, 0, 0, #0000ff
+// Weapons
+@Rope
+@Lead Pipe
+@Knife
+@Wrench
+@Candlestick
+@Revolver
